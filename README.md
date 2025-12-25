@@ -48,10 +48,12 @@
 
 ## 📸 Screenshot
 
-![Home Page](assets/screenshots/home_page.png)  
-![Camera Page](assets/screenshots/camera_page.png)  
-![Calendar Page](assets/screenshots/date_page.png)  
-![Setting Page](assets/screenshots/setting_page.png)  
+<div>
+  <img src="assets/screenshots/home_page.png" width="150" style="margin-right:10px;" />
+  <img src="assets/screenshots/camera_page.png" width="150" style="margin-right:10px;" />
+  <img src="assets/screenshots/date_page.png" width="150" style="margin-right:10px;" />
+  <img src="assets/screenshots/setting_page.png" width="150" />
+</div>  
 
 ---
 
