@@ -1,6 +1,6 @@
 # Journee - Personal Photo Journal App
 
-![Journee Banner]<img src="assets/images/logo.png" alt="Logo" width="150"/>
+<img src="assets/images/logo.png" alt="Logo" width="150"/>
 
 ![Flutter](https://img.shields.io/badge/Flutter-3.13-blue?logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-3.1-blue?logo=dart&logoColor=white)
