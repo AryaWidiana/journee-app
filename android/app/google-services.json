@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "635216184390",
+    "project_id": "carmenra-android",
+    "storage_bucket": "carmenra-android.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:635216184390:android:79165689e6cea26be0b647",
+        "android_client_info": {
+          "package_name": "com.aryqk.carmenra"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLw3opBKWm9dNjdbrUfLrjMwN4aAmNo5k"
+        },
+        {
+          "current_key": "AIzaSyCuVWRlrZUFKJstJIhvBVWwYexVh4xQIpk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:635216184390:android:241127e0c5a15ae2e0b647",
+        "android_client_info": {
+          "package_name": "com.example.carmenra"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLw3opBKWm9dNjdbrUfLrjMwN4aAmNo5k"
+        },
+        {
+          "current_key": "AIzaSyCuVWRlrZUFKJstJIhvBVWwYexVh4xQIpk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:635216184390:android:3dd226795705c00ce0b647",
+        "android_client_info": {
+          "package_name": "com.example.journee"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLw3opBKWm9dNjdbrUfLrjMwN4aAmNo5k"
+        },
+        {
+          "current_key": "AIzaSyCuVWRlrZUFKJstJIhvBVWwYexVh4xQIpk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
