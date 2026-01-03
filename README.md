@@ -57,5 +57,9 @@
 
 ---
 
+Link Figma : https://www.figma.com/design/0j8nQc5q6MoosYPih3yxH7/Journee?node-id=0-1&t=Cn5yPLvpVeJBhdlI-1
+
+---
+
 📜 Lisensi
 MIT License © 2025 Arya Widiana
