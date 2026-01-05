@@ -7,9 +7,6 @@ import 'screens/opening_screen.dart';
 import 'models/photo_model.dart';
 import '../repositorys/photo_repository.dart';
 
-
-
-
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
 
@@ -23,9 +20,7 @@ void main() async {
   await initializeDateFormatting('id_ID', null);
 
   /// INIT FIREBASE
-  await Firebase.initializeApp(
-    options: DefaultFirebaseOptions.currentPlatform,
-  );
+  await Firebase.initializeApp(options: DefaultFirebaseOptions.currentPlatform);
 
   runApp(const MyApp());
 }

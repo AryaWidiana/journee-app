@@ -57,5 +57,18 @@
 
 ---
 
+## 📸 Rancangan Arsitektur Sistem
+
+<div>
+  <img src="assets/screenshots/UCD.png" width="150" style="margin-right:10px;" />
+  <img src="assets/screenshots/UML.png" width="150" style="margin-right:10px;" />
+</div>  
+
+---
+
+Link Figma : https://www.figma.com/design/0j8nQc5q6MoosYPih3yxH7/Journee?node-id=0-1&t=7piCIu2DvAbMh6ap-1
+
+---
+
 📜 Lisensi
 MIT License © 2025 Arya Widiana
