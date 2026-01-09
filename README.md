@@ -10,6 +10,13 @@
 
 ---
 
+Kelompok : Journee
+I Nyoman Ari Parwata  (2301010002)
+I Made Arya Widiana   (2301010004)
+Anak Agung Rama Dwi Saputra (2301010021)
+
+---
+
 ## 🚀 Fitur Utama
 
 - **Ambil Foto** 📸  
